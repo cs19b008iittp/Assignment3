@@ -1,4 +1,4 @@
-
+!python -m pip install --upgrade pip
 !pip install torchmetrics
 import torch
 from torch import nn
